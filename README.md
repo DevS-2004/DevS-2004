@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/devS-2004"><img src="https://img.shields.io/github/followers/devS-2004?style=social" /></a>
   <a href="https://www.linkedin.com/in/devendra-singh-97b147216"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
-  <a href="mailto:devendrasinghit04@gmail.com"><img src="https://img.shields.io/badge/Email-devendrasinghit04@gmail.com-red?logo=gmail" /></a>
+  <a href="mailto:devsingh200529@gmail.com"><img src="https://img.shields.io/badge/Email-devsingh200529@gmail.com-red?logo=gmail" /></a>
 </p>
 
 ---
@@ -55,7 +55,7 @@
 ---
 
 ### 🌐 Developer Portfolio  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://devs-portfoilio-navy.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://devs-portfolio-navy.vercel.app)
 [![GitHub](https://img.shields.io/badge/Code-Repository-black?logo=github)](https://github.com/DevS-2004/devs-portfolio)  
 > 👨‍💻 This portfolio you're seeing — crafted with care & design
 
@@ -64,9 +64,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://devs-portfoilio-navy.vercel.app"><img src="https://img.shields.io/badge/🌐 Portfolio-blue" /></a>
+  <a href="https://devs-portfolio-navy.vercel.app"><img src="https://img.shields.io/badge/🌐 Portfolio-blue" /></a>
   <a href="https://linkedin.com/in/devendra-singh-97b147216"><img src="https://img.shields.io/badge/🔗 LinkedIn-blue?logo=linkedin" /></a>
-  <a href="mailto:devendrasinghit04@gmail.com"><img src="https://img.shields.io/badge/📧 Email Me-red?logo=gmail" /></a>
+  <a href="mailto:devsingh200529@gmail.com"><img src="https://img.shields.io/badge/📧 Email Me-red?logo=gmail" /></a>
   <a href="https://github.com/devS-2004"><img src="https://img.shields.io/badge/🐱 GitHub Profile-black?logo=github" /></a>
 </p>
 
